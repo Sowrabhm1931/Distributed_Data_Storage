@@ -1,4 +1,3 @@
-```markdown
 # Distributed Data Storage with Hadoop HDFS and Amazon S3
 
 ## Introduction
